@@ -1,6 +1,6 @@
 // --------------------------------------------------------
 //    file: snakegame.cpp
-//  author: Tayler Rae Bachmann
+//  author: TB
 //   class: COP 2001, Summer B 2022
 // purpose: using SFML libraries to create snake game
 // --------------------------------------------------------
