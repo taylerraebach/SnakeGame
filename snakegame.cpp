@@ -1,7 +1,7 @@
 // --------------------------------------------------------
 //    file: snakegame.cpp
 //  author: TB
-//   class: COP 2001, Summer B 2022
+//   class: COP 2001
 // purpose: using SFML libraries to create snake game
 // --------------------------------------------------------
 
